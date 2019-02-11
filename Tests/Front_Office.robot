@@ -21,7 +21,7 @@ ${URL} =  https://axisext.campana.com:63000/test/caa.dev/~ers/ersmobilepos.jsp
 
 *** Test Cases ***
 Should be able to access "Team" page
-    [Documentation]  This is test 1 - making changes for Git
+    [Documentation]  This is test 1 - making changes for Git and on Git as well
     [Tags]  test1
 
     FrontOfficeApp.Go to "Team" Page
